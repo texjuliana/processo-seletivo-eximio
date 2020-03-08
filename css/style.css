@@ -117,6 +117,20 @@ h6 {
 
 /* Navegação no Desktop */
 
+ /*centralizaçao para desktop*/
+p {
+    text-align: center;
+
+}
+ h5 {
+  text-align: center;
+
+}
+ ul {
+  text-align: justify;
+  text-indent: 30px;
+}
+
 .main-nav {
   /* Drop Down */
   /* Deep Drop Down */
@@ -156,6 +170,21 @@ h6 {
 
 /* Navegação Mobile*/
 
+/*centralizaçao para mobile*/
+.mobile-nav{
+p {
+    text-align: center;
+
+}
+ h5 {
+  text-align: center;
+
+}
+ ul {
+  text-align: justify;
+  text-indent: 30px;
+}
+}
 .mobile-nav {
   position: fixed;
   top: 0;
